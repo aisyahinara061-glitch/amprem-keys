@@ -1,11 +1,18 @@
 {
-  "keys": {},
+  "keys": {
+    "AMP-WKYDXGTCNF64HJTE": {
+      "dibuat": "2026-09-28 10:09:39",
+      "expired": "9999-12-31",
+      "durasi": "permanent",
+      "dibuat_oleh": "Azka"
+    }
+  },
   "admins": {
     "AZKA": {
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
-      "hari_ini": 0,
+      "hari_ini": 1,
       "last_reset": "2026-09-28"
     }
   }
