@@ -1,12 +1,5 @@
 {
-  "keys": {
-    "AMP-JJFJEN46YEKC7J37": {
-      "dibuat": "2026-09-28 09:57:26",
-      "expired": "2026-09-29",
-      "durasi": "harian",
-      "dibuat_oleh": "Azka"
-    }
-  },
+  "keys": {},
   "admins": {
     "AMP-DEV-2026": {
       "tier": "developer",
