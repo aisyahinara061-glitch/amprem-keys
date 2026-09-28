@@ -1,12 +1,5 @@
 {
-  "keys": {
-    "AMP-XK7TPRQW9MNC4DFH": {
-      "dibuat": "2026-09-28 14:30:00",
-      "expired": "2026-09-29",
-      "durasi": "harian",
-      "dibuat_oleh": "Azka"
-    }
-  },
+  "keys": {},
   "admins": {
     "AMP-DEV-MASTER-2026": {
       "tier": "developer",
