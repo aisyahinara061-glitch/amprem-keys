@@ -1,5 +1,12 @@
 {
-  "keys": {},
+  "keys": {
+    "AMP-DJ3CGYY9HW9EKTPR": {
+      "dibuat": "2026-09-28 09:55:11",
+      "expired": "9999-12-31",
+      "durasi": "permanent",
+      "dibuat_oleh": "Azka"
+    }
+  },
   "admins": {
     "AMP-DEV-2026": {
       "tier": "developer",
@@ -12,7 +19,7 @@
       "tier": "reseller",
       "name": "Azka",
       "limit": 5,
-      "hari_ini": 0,
+      "hari_ini": 1,
       "last_reset": "2026-09-28"
     }
   }
