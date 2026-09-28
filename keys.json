@@ -14,13 +14,6 @@
     }
   },
   "admins": {
-    "AZKADEV2026": {
-      "tier": "developer",
-      "name": "Azka",
-      "limit": 999,
-      "hari_ini": 5,
-      "last_reset": "2026-09-28"
-    },
     "AZKA": {
       "tier": "developer",
       "name": "Azka",
