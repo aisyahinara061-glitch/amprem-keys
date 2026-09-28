@@ -1,11 +1,18 @@
 {
-  "keys": {},
+  "keys": {
+    "AMP-KUCTGU7XAW3HA3AX": {
+      "dibuat": "2026-09-28 09:52:08",
+      "expired": "2026-09-29",
+      "durasi": "harian",
+      "dibuat_oleh": "Azka"
+    }
+  },
   "admins": {
     "AMP-DEV-MASTER-2026": {
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
-      "hari_ini": 0,
+      "hari_ini": 1,
       "last_reset": "2026-09-28"
     },
     "AMP-RESELLER-BUDI": {
