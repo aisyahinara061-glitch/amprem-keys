@@ -7,13 +7,6 @@
       "limit": 999,
       "hari_ini": 3,
       "last_reset": "2026-09-28"
-    },
-    "AMP-USER-AZKA": {
-      "tier": "reseller",
-      "name": "Azka",
-      "limit": 5,
-      "hari_ini": 5,
-      "last_reset": "2026-09-28"
     }
   }
 }
