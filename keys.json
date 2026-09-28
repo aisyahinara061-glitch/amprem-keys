@@ -1,11 +1,24 @@
 {
-  "keys": {},
+  "keys": {
+    "AMP-JJFJEN46YEKC7J37": {
+      "dibuat": "2026-09-28 09:57:26",
+      "expired": "2026-09-29",
+      "durasi": "harian",
+      "dibuat_oleh": "Azka"
+    },
+    "AMP-YHQRRUJUUDMQY3GA": {
+      "dibuat": "2026-09-28 09:57:30",
+      "expired": "2026-09-29",
+      "durasi": "harian",
+      "dibuat_oleh": "Azka"
+    }
+  },
   "admins": {
     "AMP-DEV-2026": {
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
-      "hari_ini": 1,
+      "hari_ini": 3,
       "last_reset": "2026-09-28"
     },
     "AMP-USER-AZKA": {
