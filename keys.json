@@ -1,12 +1,5 @@
 {
-  "keys": {
-    "AMP-WKYDXGTCNF64HJTE": {
-      "dibuat": "2026-09-28 10:09:39",
-      "expired": "9999-12-31",
-      "durasi": "permanent",
-      "dibuat_oleh": "Azka"
-    }
-  },
+  "keys": {},
   "admins": {
     "AZKA": {
       "tier": "developer",
