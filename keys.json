@@ -5,6 +5,12 @@
       "expired": "2026-09-29",
       "durasi": "harian",
       "dibuat_oleh": "Azka"
+    },
+    "AMP-CVPX7G6JH7NHPCC6": {
+      "dibuat": "2026-09-28 10:47:45",
+      "expired": "9999-12-31",
+      "durasi": "permanent",
+      "dibuat_oleh": "Azka"
     }
   },
   "admins": {
@@ -12,7 +18,7 @@
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
-      "hari_ini": 3,
+      "hari_ini": 4,
       "last_reset": "2026-09-28"
     }
   }
