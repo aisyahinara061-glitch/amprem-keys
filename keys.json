@@ -1,17 +1,45 @@
 {
-  "AZKAADMIN": {
-    "dibuat": "2026-09-28 12:48:34",
-    "expired": "9999-12-31",
-    "durasi": "custom"
+  "keys": {
+    "AMP-XK7TPRQW9MNC4DFH": {
+      "dibuat": "2026-09-28 14:30:00",
+      "expired": "2026-09-29",
+      "durasi": "harian",
+      "dibuat_oleh": "Azka"
+    },
+    "AMP-HJ2MRWTV9QNDCFGH": {
+      "dibuat": "2026-09-28 14:35:00",
+      "expired": "2026-10-05",
+      "durasi": "mingguan",
+      "dibuat_oleh": "Budi"
+    },
+    "AMP-PERM-VIP-MEMBER": {
+      "dibuat": "2026-09-28 14:40:00",
+      "expired": "9999-12-31",
+      "durasi": "permanent",
+      "dibuat_oleh": "Azka"
+    }
   },
-  "AMP-EJYAHPRV6DYTDNTD": {
-    "dibuat": "2026-09-28 14:45:32",
-    "expired": "2026-09-28",
-    "durasi": "harian"
-  },
-  "GHANYPARTNERAZKA": {
-    "dibuat": "2026-09-28 16:09:39",
-    "expired": "9999-12-31",
-    "durasi": "custom"
+  "admins": {
+    "AMP-DEV-MASTER-2026": {
+      "tier": "developer",
+      "name": "Azka",
+      "limit": 999,
+      "hari_ini": 0,
+      "last_reset": "2026-09-28"
+    },
+    "AMP-RESELLER-BUDI": {
+      "tier": "reseller",
+      "name": "Budi",
+      "limit": 5,
+      "hari_ini": 0,
+      "last_reset": "2026-09-28"
+    },
+    "AMP-USER-ANDI": {
+      "tier": "user",
+      "name": "Andi",
+      "limit": 3,
+      "hari_ini": 0,
+      "last_reset": "2026-09-28"
+    }
   }
 }
