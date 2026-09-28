@@ -14,13 +14,6 @@
       "limit": 999,
       "hari_ini": 1,
       "last_reset": "2026-09-28"
-    },
-    "AMP-USER-ANDI": {
-      "tier": "user",
-      "name": "Andi",
-      "limit": 3,
-      "hari_ini": 0,
-      "last_reset": "2026-09-28"
     }
   }
 }
