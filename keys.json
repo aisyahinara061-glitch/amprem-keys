@@ -20,6 +20,13 @@
       "limit": 999,
       "hari_ini": 5,
       "last_reset": "2026-09-28"
+    },
+    "AZKA": {
+      "tier": "developer",
+      "name": "Azka",
+      "limit": 999,
+      "hari_ini": 0,
+      "last_reset": "2026-09-28"
     }
   }
 }
