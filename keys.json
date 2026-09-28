@@ -8,7 +8,7 @@
     }
   },
   "admins": {
-    "AMP-DEV-MASTER-2026": {
+    "AMP-DEV-2026": {
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
