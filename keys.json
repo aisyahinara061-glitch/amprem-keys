@@ -1,7 +1,7 @@
 {
   "keys": {},
   "admins": {
-    "AMP-DEV-2026": {
+    "AZKADEV2026": {
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
