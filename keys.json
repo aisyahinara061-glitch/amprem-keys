@@ -11,12 +11,6 @@
       "expired": "2026-10-05",
       "durasi": "mingguan",
       "dibuat_oleh": "Budi"
-    },
-    "AMP-PERM-VIP-MEMBER": {
-      "dibuat": "2026-09-28 14:40:00",
-      "expired": "9999-12-31",
-      "durasi": "permanent",
-      "dibuat_oleh": "Azka"
     }
   },
   "admins": {
