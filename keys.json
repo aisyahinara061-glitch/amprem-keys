@@ -3,7 +3,12 @@
     "dibuat": "2026-09-28 12:01:48",
     "expired": "2026-09-28",
     "durasi": "harian",
-    "dipakai": false,
-    "dipakai_oleh": null
+    "dipakai": true,
+    "dipakai_oleh": "2026-09-28 12:02:18"
+  },
+  "AMP-EL4GHAL03ZU9Y2FH": {
+    "dibuat": "2026-09-28 12:08:26",
+    "expired": "2026-09-28",
+    "durasi": "harian"
   }
 }
