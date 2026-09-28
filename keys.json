@@ -20,6 +20,13 @@
       "limit": 999,
       "hari_ini": 4,
       "last_reset": "2026-09-28"
+    },
+    "AMPSTARS": {
+      "tier": "developer",
+      "name": "OwnerWeb",
+      "limit": 999,
+      "hari_ini": 0,
+      "last_reset": "2026-09-28"
     }
   }
 }
