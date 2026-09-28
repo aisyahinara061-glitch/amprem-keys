@@ -1,11 +1,18 @@
 {
-  "keys": {},
+  "keys": {
+    "AMP-JQN7NKM4NRE6FGU3": {
+      "dibuat": "2026-09-28 10:18:16",
+      "expired": "2026-09-29",
+      "durasi": "harian",
+      "dibuat_oleh": "Azka"
+    }
+  },
   "admins": {
     "AZKA": {
       "tier": "developer",
       "name": "Azka",
       "limit": 999,
-      "hari_ini": 1,
+      "hari_ini": 2,
       "last_reset": "2026-09-28"
     }
   }
