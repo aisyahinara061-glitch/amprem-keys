@@ -17,6 +17,12 @@
       "expired": "2026-10-05",
       "durasi": "mingguan",
       "dibuat_oleh": "OwnerWeb"
+    },
+    "AMP-RU3MEH7QPRJAXGUN": {
+      "dibuat": "2026-09-29 11:25:29",
+      "expired": "9999-12-31",
+      "durasi": "permanent",
+      "dibuat_oleh": "OwnerWeb"
     }
   },
   "admins": {
@@ -31,7 +37,7 @@
       "tier": "developer",
       "name": "OwnerWeb",
       "limit": 999,
-      "hari_ini": 0,
+      "hari_ini": 1,
       "last_reset": "2026-09-29"
     }
   }
