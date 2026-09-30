@@ -20,13 +20,6 @@
     }
   },
   "admins": {
-    "AZKA": {
-      "tier": "developer",
-      "name": "Azka",
-      "limit": 999,
-      "hari_ini": 0,
-      "last_reset": "2026-09-28"
-    },
     "AMPSTARS": {
       "tier": "developer",
       "name": "OwnerWeb",
