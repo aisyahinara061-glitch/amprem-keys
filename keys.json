@@ -33,6 +33,13 @@
       "limit": 999,
       "hari_ini": 0,
       "last_reset": "2026-09-30"
+    },
+    "EE021804DF73D9D6": {
+      "tier": "developer",
+      "name": "Azkaa",
+      "limit": 999,
+      "hari_ini": 0,
+      "last_reset": "2026-09-30"
     }
   }
 }
