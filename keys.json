@@ -36,7 +36,7 @@
     }
   },
   "maintenance": {
-    "aktif": true,
+    "aktif": false,
     "pesan": "Server sedang dalam perbaikan",
     "eta": "",
     "diaktifkan": "2026-09-30T23:21:37.339Z"
