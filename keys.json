@@ -26,6 +26,13 @@
       "limit": 999,
       "hari_ini": 1,
       "last_reset": "2026-09-30"
+    },
+    "AZKA": {
+      "tier": "developer",
+      "name": "azka",
+      "limit": 999,
+      "hari_ini": 0,
+      "last_reset": "2026-09-30"
     }
   }
 }
