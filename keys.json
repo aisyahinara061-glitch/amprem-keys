@@ -34,5 +34,11 @@
       "hari_ini": 0,
       "last_reset": "2026-09-30"
     }
+  },
+  "maintenance": {
+    "aktif": true,
+    "pesan": "Server sedang dalam perbaikan",
+    "eta": "",
+    "diaktifkan": "2026-09-30T23:10:51.801Z"
   }
 }
