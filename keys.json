@@ -37,8 +37,8 @@
       "tier": "developer",
       "name": "OwnerWeb",
       "limit": 999,
-      "hari_ini": 1,
-      "last_reset": "2026-09-29"
+      "hari_ini": 0,
+      "last_reset": "2026-09-30"
     }
   }
 }
