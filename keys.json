@@ -17,6 +17,66 @@
       "expired": "9999-12-31",
       "durasi": "permanent",
       "dibuat_oleh": "OwnerWeb"
+    },
+    "AMP-DGPMW4TA7FXP": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-AAJYYXJGVG3A": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-WQRXWUJYKEVQ": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-4QHXFPA4PRCV": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-4PUJUAYJQHQR": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-U7NAGQRJXGJC": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-YV7PQ66CTWT9": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-3FPYC3WTNXHF": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-WCWQE4VV9VMC": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
+    },
+    "AMP-QQMRAPK9TPYM": {
+      "dibuat": "2026-10-01 01:28:44",
+      "expired": "2026-10-31",
+      "durasi": "bulanan",
+      "dibuat_oleh": "azka (bulk)"
     }
   },
   "admins": {
@@ -31,7 +91,7 @@
       "tier": "developer",
       "name": "azka",
       "limit": 999,
-      "hari_ini": 0,
+      "hari_ini": 10,
       "last_reset": "2026-10-01"
     }
   },
